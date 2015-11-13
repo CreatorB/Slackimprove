@@ -1,2 +1,2 @@
 # Slackimprove
-just a little hack to improve my slackware os
+Awesome collections of script builder, Lets hack your slack!
